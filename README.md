@@ -1,5 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+*Results-driven professional with experience at ShopDoora as a Quality Assurance
+Analyst, where I enhanced data integrity through meticulous testing and defect
+resolution.
+*Proficient in data analysis and debugging, I leverage my skills in HTML5
+and React to deliver high-quality, user-friendly solutions while fostering
+collaboration within teams
 
+Currently developing Learning Management Platform with Next.js, MongoDb, Auth.js and Tailwind CSS. 
+
+Feel Free to Contact me via my [email](htoomyatkyaw32@gmail.com)
 <!--
 **Kazuo-Mikara/Kazuo-Mikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
