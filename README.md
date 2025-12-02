@@ -1,10 +1,13 @@
 ### Hi there 👋
-*Results-driven professional with experience at ShopDoora as a Quality Assurance
+I have results-driven professional with experience at ShopDoora as a Quality Assurance
 Analyst, where I enhanced data integrity through meticulous testing and defect
 resolution.
-*Proficient in data analysis and debugging, I leverage my skills in HTML5
+
+I am Proficient in data analysis and debugging, I leverage my skills in HTML5
 and React to deliver high-quality, user-friendly solutions while fostering
 collaboration within teams
+
+I have prior experience developing  E-commerce platform with Wordpress and Elementor.
 
 Currently developing Learning Management Platform with Next.js, MongoDb, Auth.js and Tailwind CSS. 
 
